@@ -13,5 +13,9 @@ public class NumberFormat {
         id = 5;
         System.out.println(num+id);
 
+        Integer a = 10;
+        Integer b = 12;
+        System.out.println(a*b);
+
     }
 }
